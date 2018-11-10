@@ -1,0 +1,6 @@
+*********************************************
+You won! You solved the puzzle!
+The Curse of The Witch did not make you harm!
+Congratulations!
+*********************************************
+

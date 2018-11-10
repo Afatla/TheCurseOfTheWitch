@@ -1,0 +1,12 @@
+You met witch Jadis!
+
+-Here is my puzzle-said Jadis
+-Five friends want each other to bestow
+ gifts on Christmas
+ in such a way 
+ that everyone got exactly one gift,
+ and no one handed it to himself.
+In how many ways can bestow?
+1. 44 
+2. 45
+ 

@@ -1,0 +1,3 @@
+Welcome in The Curse Of The Witch!
+Press 1 if you want to play as a boy
+Press 2 if you want to play as a girl
